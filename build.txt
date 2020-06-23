@@ -1,0 +1,3 @@
+displayName = Dae's Library (DaeLib)
+author = DaeCatt
+version = 1.0

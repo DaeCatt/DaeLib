@@ -1,0 +1,2 @@
+Dae's Library (DaeLib)
+This mod does nothing on its own. It is a code library for mods made by me (DaeCatt).
